@@ -162,6 +162,16 @@ class: middle left, inverse
 
 ---
 
+class:middle, center
+
+```{r out.width = '100%', echo=FALSE}
+# local
+knitr::include_graphics("img/org.png")
+```
+### Organes et pouvoir décisionnel
+
+---
+
 class: middle
 
 # 3- Missions du GC - Marge de manœuvre
