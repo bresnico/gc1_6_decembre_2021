@@ -226,7 +226,7 @@ Commenter le design de formation
 
 --
 
-### Tâches relatives - Lister les risques et opportunités au niveau de :
+### Tâches relatives - Lister les risques et opportunités sur :
 
 1. la technologie utilisée
 1. l'autonomie des personnes
